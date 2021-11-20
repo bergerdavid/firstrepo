@@ -1,5 +1,4 @@
-# name "hello world"
-
+print("hello world")
 
 a = "first line"
 b = "second line of code"
